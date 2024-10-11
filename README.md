@@ -1,4 +1,3 @@
-Aqui está o texto formatado corretamente para você copiar e colar diretamente no GitHub, incluindo a correta marcação para comandos de terminal e código:
 
 ---
 
