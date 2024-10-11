@@ -40,9 +40,4 @@ O script irá imprimir as informações das notícias no console.
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir [issues](https://github.com/seuusuario/g1-news-scraper/issues) ou enviar pull requests com melhorias e correções.
 
-## Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
-Esse formato deve funcionar corretamente no GitHub agora!
